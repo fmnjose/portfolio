@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.19757093.css",
+    "main.js": "/portfolio/static/js/main.01825d3e.js",
+    "static/media/RegabofePosters.png": "/portfolio/static/media/RegabofePosters.af5ece19c07a490e9cfc.png",
+    "static/media/Photo.png": "/portfolio/static/media/Photo.9a3e42c4ca231446ef8f.png",
+    "static/media/AndreCover.png": "/portfolio/static/media/AndreCover.3391d8eb53e2f2837105.png",
+    "static/media/Memcached.png": "/portfolio/static/media/Memcached.9d6e19476ac41d3b7019.png",
+    "static/media/RegabofeBanner.png": "/portfolio/static/media/RegabofeBanner.9048d32d1b682e7afb10.png",
+    "static/media/Regabofe3DBanner.png": "/portfolio/static/media/Regabofe3DBanner.53be0b67aa64d62e2577.png",
+    "static/media/Lovelystay.png": "/portfolio/static/media/Lovelystay.7f13cee39d1b790c6342.png",
+    "static/media/CompaniesLogo.png": "/portfolio/static/media/CompaniesLogo.ee6eb87ac5f26b48ef34.png",
+    "static/media/CelfocusBlack.png": "/portfolio/static/media/CelfocusBlack.b101fcc9ddfc2873778b.png",
+    "static/media/soundcloud.svg": "/portfolio/static/media/soundcloud.638f96d251d2678d5c70865c61976170.svg",
+    "static/media/youtube.svg": "/portfolio/static/media/youtube.3f730d58acb634712cb75269d272e83d.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.25600b3ef6606cf4a13f497446fa3e4f.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.545ea810b1ff20185302b033f21c00ac.svg",
+    "index.html": "/portfolio/index.html",
+    "main.19757093.css.map": "/portfolio/static/css/main.19757093.css.map",
+    "main.01825d3e.js.map": "/portfolio/static/js/main.01825d3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19757093.css",
+    "static/js/main.01825d3e.js"
+  ]
+}

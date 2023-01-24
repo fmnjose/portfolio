@@ -1,0 +1,66 @@
+{   
+    "Regabofe": {
+        "PT":{
+            "title":"\"Regabofe de Sábado à Noite\"",
+            "label":"Regabofe de Sábado à Noite",
+            "text":["O Regabofe de Sábado à Noite foi um projeto de emissões ao vivo que iniciei com o propósito de criar um espaço de diálogo que se estende além do idioma. A ideia era explorar o imaginário coletivo Português, e enfantizar o facto de que nós partilhamos uma herança cultural que adquirimos de forma muito inconsciente. Foi pelo acidental - acredito que esteja ao acaso nascer em Portugal no tempo de vida do programa - contacto com o Preço Certo, que o Fernando Mendes se tornou uma figura marcante para quem o vê, e o mesmo se aplica ao Goucha ou João Baião. Esta lógica estende-se ainda ao digital, com figuras como António Mendes, <<O mais conhecido na house como esticas-te levas nos dentes>>, ou \"O gajo do buenos dias matosinhos\".","Este foi o universo em que crescemos, no qual todos conseguimos conversar desligados das diferenças que noutro contexto poderiam ser um entrave ao diálogo, e foi nesta matriz que quis inserir o Regabofe. Trata-se principalmente do desevolvimento de uma linguagem comum, tanto oral como visual que, não obstante ser moderna e aproveitar as recentes tecnologias, tenta escapar à alienação ao fazer uma ode à familiaridade da cultura popular portuguesa.","O principal objeto foram as emissões ao vivo (livestreams) nas quais fiz breves loops de música usando excertos de momentos virais da televisão ou internet. As emissões foram depois editadas para formatos mais condensados - vídeos de 10-15 minutos para o Youtube, e também de aproximadamente 60 segundos para o Instagram/TikTok. Todas as noites de Regabofe foram promovidas através e Posters criados pelo Simão Rodrigues (@donsimon.edits no Instagram)."]
+        },
+
+        "EN":{
+            "title":"\"Regabofe de Sábado à Noite\"",
+            "label":"Regabofe de Sábado à Noite",
+            "text":["'Regabofe de Sábado à Noite' (roughly translated as Saturday Night Shenanigans) was a live  broadcasting project which I started with the intent of creating a space for dialogue that extends beyond the spoken Idiom. It explores the portuguese collective imaginary, emphasizing the fact that we all share a cultural heritage which we have unconsciously aquired through the contact with national television, and viral videos on social media.","We all relate to a certain way of dealing with life, the 'Portuguese way of living', and we are able to talk or make jokes about it in an environment where the differences between people are easily dissipated. It is about connecting under a common language, and communicating with each other about something which we all share, because we grew with the same things appearing on our TVs.","The main object of the 'Regabofe' were the live broadcasts where I would make brief music loops using samples from viral portuguese pop culture moments. The broadcasts were then edited to more compact formats - Youtube videos with 10-15 minutes, and 60 seconds versions to publish as Instagram Reels/TikTok. All the livestreams were announced through posters created by Simão Rodrigues (@donsimon.edits on Instagram)."]
+        }
+    },
+    "Livestreaming": {
+        "PT":{
+            "title":"Emissão ao Vivo",
+            "label":"Emissão ao Vivo",
+            "text":["Embora o Regabofe não se resumisse a isso, as emissões ao vivo foram o formato principal. Todos os sábados às 21:30 havia transmissão em direto na Twitch (plataforma de livestreaming), onde conversava com a audiência enquanto recordava algum momento icónico da cultura portuguesa (seja em televisão, ou no digital). Era depois este o objeto que usava como 'sample' para compor breves loops musicais, improvisando ocasionalmente com guitarra e baixo."]
+        },
+
+        "EN":{
+            "title":"Live Broadcasting",
+            "label":"Live Broadcasting",
+            "text":["Even though the 'Regabofe' wasn't limited to that, the livestreams were its main format. Every saturday at 9h30PM there would be a live broadcast on Twitch (livestreaming platform), where I would engage and speak with the audience, while reminiscing about iconic moments from portuguese popular culture. I would then use those as samples to write short song loops, sometimes improvising with the guitar and bass."]
+        }
+    },
+    "VideoEditing": {
+        "PT":{
+            "title":"Edição de Vídeo",
+            "label":"Edição de Vídeo",
+            "text":["Todas as emissões foram editadas para formatos mais facilmente consumíveis - porque convenhamos que emissões ao vivo de 2-3 horas não são para todo o tipo de público. O principal objetivo foi condensar em 60 segundos a criação dos loops, para serem publicados como Instagram Reels, TikTok e Youtube Shorts, de forma a promover o Regabofe. Criei também resumos de 10-15 minutos para publicação no Youtube, com mais conteúdo e desenvolvimento de alguns momentos que ocorreram durante a emissão."]
+        },
+
+        "EN":{
+            "title":"Video Editing",
+            "label":"Video Editing",
+            "text":["All the broadcasts were edited to more easily consumable formats - because admittedly 2-3 hours livestreams are not for everyone. The main idea was to compress the song creation process into short 60 seconds videos, to publish as Instagram Reels, Tiktoks and Youtube Shorts, in order to promote the live show. I also created 10-15 minutes summaries of the streams, featuring more content and development of some events that took place during the broadcasts, to publish as Youtube videos."]
+        }
+    },
+    "MusicProduction": {
+        "PT":{
+            "title":"Produção Musical",
+            "label":"Produção Musical",
+            "text":["A produção musical foi o maior foco do projeto, como consequência de o património musical português ter sido o que mais marcou o meu desenolvimento durante toda a minha vida. Fui criado pela minha irmã que passava os dias a mostrar-me albuns de Zeca Afonso e bandas novas, e cresci a ouvir o meu avô a assobiar, coisa que fez mesmo enquanto definhava devido à sua demência.", "Achei que este seria o veículo que mais sentido fazia para explorar a cultura portuguesa. Nas últimas 4 emissões criei ao vivo um EP sobre duas personagens que remetem para a nossa infância, e para as referências presentes no nosso crescimento. Depois de fazer o mixing e masterização, lancei o EP no Soundcloud."]
+        },
+
+        "EN":{
+            "title":"Music Production",
+            "label":"Music Production",
+            "text":["Music production was the biggest focus of the project, as a consequence of the fact that portuguese musical patrimony has always had the most impact on my live. I was raised by my sister, whom would be constantly showing me Zeca Afonso's songs, and introducing me to new bands and genres. Also, the only memories I have from my grandfather, are of him spending his dementia-affected days happily whistling on a chair.","So I thought that music would be the only way to build this communion environment. Furthermore, on the last 4 broadcasts, I created and developed an EP telling the story of two characters that are a reference to our childhood. After mixing and mastering, I released it on Soundcloud."]
+        }
+    },
+    "3DModeling": {
+        "PT":{
+            "title":"Modelação 3D",
+            "label":"Modelação 3D",
+            "text":["Para a última emissão criei um logótipo em 3D inspirado pelos utilizados como branding em programas da tarde ou concursos televisivos."]
+        },
+        "EN":{
+            "title":"3D Modeling",
+            "label":"3D Modeling",
+            "text":["For the final broadcast, I created a 3D logo inspired by the ones used in national television."]
+        }
+    }
+}

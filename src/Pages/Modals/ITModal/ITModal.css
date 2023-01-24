@@ -1,0 +1,14 @@
+.it-modal-container {
+    display: flex;
+    position: fixed;
+    background-color: grey;
+    z-index: 1000;
+    top: 45%;
+    left: 50%;
+    width: 60vw;
+    height: 80vh;
+    padding: 1em 1em;
+    transform: translate(-50%, -40%);
+    overflow-x: hidden;
+    overflow-y: auto;
+}

@@ -1,0 +1,12 @@
+.thumbnail-container{
+    height: 24vw;
+    width: 32vw;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 1em;
+    background-color: black;
+}
+
+.thumbnail-container .image {
+    width: 100%;
+}

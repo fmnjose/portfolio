@@ -1,0 +1,47 @@
+.center-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrap-flex {
+    flex-wrap: wrap;
+}
+
+h1, h2 {
+    color: white;
+}
+
+.page-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: max-content;
+}
+
+.thumbnails-container {
+    display: flex;
+    flex-wrap: wrap;
+    height: max-content;
+    justify-content: center;
+}
+
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
+
+.learn-more-button {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    width: fit-content;
+    padding: 1em;
+    margin-top: 1em;
+    border-radius: 4px;
+}
+
+.learn-more-button:hover {
+    cursor: pointer;
+    background-color: rgb(195, 195, 195);
+    color: white
+}

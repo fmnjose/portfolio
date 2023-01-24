@@ -1,0 +1,18 @@
+{
+    "Home":{
+        "PT":"Página Principal",
+        "EN":"Home"
+    },
+    "IT":{
+        "PT":"IT",
+        "EN":"IT"
+    },
+    "Creative":{
+        "PT":"Criativo",
+        "EN":"Creative"
+    },
+    "About":{
+        "PT":"Sobre",
+        "EN":"About"
+    }
+}

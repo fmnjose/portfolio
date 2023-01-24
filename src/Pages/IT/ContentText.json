@@ -1,0 +1,17 @@
+{   
+    "Celfocus": {
+        "PT":["Trabalhei na Celfocus como administrador de sistemas. Fiz parte da equipa de Release Management da 'Vodafone Ireland', estando a cargo dos sistemas usados pelas equipas de desenvolvimento para testar código, em metodologia Agile.","Depois estive num projeto com a Saudi Telecom Company, onde fui responsável por montar o sistema de CI/CD, e pelos clusters de Kafka usados na solução de Digital Transformation da STC.","Por último, participei num projeto da Vodafone Global, no desenvolvimento de automatismos em Ansible e Shell para realização e catalogação de backups automáticos, assim como os mecanismos para restauração dos mesmos."],
+
+        "EN":["I worked at Celfocus as a system administrator. I was part of the Release Management team for 'Vodafone Ireland', having to manage the systems used by the development teams to run tests, using Agile methodology.","Then I was on the Digital Transformation project for Saudi Telecom Company, where I was responsible for the CI/CD stack, and Kafka clusters.","Lastly, I took part in a project for Vodafone Global, developing and documenting automatic mechanisms to backup and restore several third-party systems, using Ansible and Shell scripting."]
+    },
+    "Lovelystay": {
+        "PT":["Trabalhei como software developer na Lovelstay, empresa de alojamento local. Fiz parte da equipa de backend, tendo tratado da criação de um ambiente de testes em AWS, e desenvolvido código para os sistemas de suporte ao website."],
+
+        "EN":["I worked as a software developer at Lovelystay, a property renting company. There, I was on the backend team, having been responsible for creating a testing server using AWS, and also developing code for the website's support systems."]
+    },
+    "Memcached": {
+        "PT":["Projeto curricular de investigação desenvolvido na faculdade junto do professor João Leitão, e dos então doutorandos Pedro Ákos Costa e Pedro Fouto, no qual estudei formas de otimização de performance do Memcached, sistema de caching in-memory, tendo como ponto de partida a tese de mestrado de um colega."],
+
+        "EN":["Curricular research project developed in college, under the guidance of Professor João Leitão, and PhD students Pedro Ákos Costa and Pedro Fouto, in which I studied ways to improve the performance of Memcached, an in-memory caching system, having as a starting point a colleague's Masters thesis."]
+    }
+}

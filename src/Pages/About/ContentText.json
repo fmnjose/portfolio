@@ -1,0 +1,11 @@
+{   
+    "PT":{
+        "title":"Sobre mim",
+        "text":["Sou uma pessoa movida pela exploração de formas de manifestar o que sinto e o que penso, estando profundamente conectado com o meu lado criativo. Sou apaixonado por desenvolver e tornar reais conceitos que idealizo.","O gosto por computadores cresceu cedo em mim, e a programação é uma das atividades que mais me estimula, ficando em segundo lugar apenas para os processos criativos nos quais mergulho.","Vejo-me atraído pela comunicação e construção de espaços de diálogo, e tenho especial interesse em pessoas, na forma como interagem, e no desenrolar da história de cada um."]
+    },
+
+    "EN":{
+        "title":"About me",
+        "text":["I'm invested in exploring ways to express what I feel and think, being deeply connected to my creative side. I'm passionate about developing and materializing concepts that I idealize.", "The interest in computers has grown with me since youth, and coding is one of the activies which I find most stimulating, second only to the passion for engaging in the creative processes I dive into.","I am attracted towards communication, and building spaces for dialogue. I truly enjoy witnessing how people interact, and the unfurling of one's history."]
+    }
+}

@@ -1,0 +1,23 @@
+{   
+    "ITWork": {
+        "PT":{
+            "title":"Trabalho em IT",
+            "text":["Depois de me formar em Engenharia Informática, fui trabalhar para a Celfocus, onde estive aproximadamente 2 anos a participar em diversos projetos com empresas de telecomunicações. PARAGrAFO A minha segunda experiência de trabalho foi na Lovelystay, junto da equipa de desenvolvimento."]
+        },
+
+        "EN":{
+            "title":"IT Work",
+            "text":["After finishing my degree in Science and Computer Engineering, I worked at Celfocus for about 2 years, participating in several projects for telecommunication companies. PARAGRAFO My second work experience was at Lovelystay, where I was a part of the software development team."]
+        }
+    },
+    "Creative": {
+        "PT":{
+            "title":"Projetos Criativos",
+            "text":["A criação é um dos pilares da minha personalidade, e, consequentemente, dedico-me a projetos pessoais no âmbito artístico. Seja música, edição de vídeo, ou modelação 3D, tenho interesse em explorar diferentes formas de criatividade, e ferramentas para expressar as minhas ideias."]
+        },
+
+        "EN":{
+            "title":"Creative Projects",
+            "text":["Creating is one of the pillars of my personality, and consequently I dedicate myself to personal projects with an artistic component. Being it music production, video editing or 3D modeling, I like to tap into my creative side, and explore new ways and tools for expressing my ideas."]}
+    }
+}

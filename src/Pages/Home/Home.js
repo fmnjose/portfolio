@@ -23,7 +23,7 @@ function generateButton(buttonText, route){
 
 function Home({currentLanguage}) {
     return(
-      <div>
+      <div class='home'>
         <TextAndImage 
           title={contentText["ITWork"][currentLanguage]["title"]}
           text={contentText["ITWork"][currentLanguage]["text"]}

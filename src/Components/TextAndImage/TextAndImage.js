@@ -1,4 +1,5 @@
 import './TextAndImage.css'
+import { processParagraphsToText } from '../../Utility';
 
 function TextAndImage({ title, text, imageSource, button}) {
     return (
@@ -9,7 +10,7 @@ function TextAndImage({ title, text, imageSource, button}) {
             </div>
 
             <p className="text">
-              {text}
+              {processParagraphsToText(text)}
             </p>
             {button ? button : null}
           </div>

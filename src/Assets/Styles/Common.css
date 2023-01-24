@@ -45,3 +45,10 @@ a, a:visited, a:hover, a:active {
     background-color: rgb(195, 195, 195);
     color: white
 }
+
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,18 +1,19 @@
 .text-and-image-reverse-container {
     display: flex;
     flex-direction: row;
-    margin-left: 20vw;
-    margin-right: 15vw;
+    margin-left: 4em;
     margin-bottom: 4em;
     background-color: black;
+    width: 60%;
     height: fit-content;
 }
 
 .text-and-image-reverse-container .text-container {
     display: flex;
     flex-direction: column;
-    padding: 0em 1em;
-    padding-top: 2vmin;
+    padding-right: 4em;
+    padding-left: 4em;
+    margin-bottom: 2em;
     width: 50%;
 }
 
@@ -26,13 +27,13 @@
 }
 
 .text-and-image-reverse-container .image-container {
-    width: 50%;
+    width: 40%;
 }
 
 .text-and-image-reverse-container .image {
-    transform: translate(-5vw,0);
+    transform: translate(-2em,0);
     padding: 1em 0em;
-    width: 35vw;
+    width: 25vw;
     pointer-events: none;
 }
 

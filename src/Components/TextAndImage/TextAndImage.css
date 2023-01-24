@@ -1,19 +1,19 @@
 .text-and-image-container {
     display: flex;
     flex-direction: row;
-    margin-left: 15vw;
-    margin-right: 20vw;
     margin-bottom: 4em;
     background-color: black;
+    width: 60%;
     height: fit-content;
 }
 
 .text-and-image-container .text-container {
     display: flex;
     flex-direction: column;
-    padding: 0em 1em;
-    padding-top: 2vmin;
-    width: 50%
+    padding-left: 4em;
+    padding-right: 2em;
+    margin-bottom: 2em;
+    width: 60%
 }
 
 .text-and-image-container .title {
@@ -26,12 +26,12 @@
 }
 
 .text-and-image-container .image-container {
-    width: 50%;
+    width: 40%;
 }
 
 .text-and-image-container .image {
     padding: 1em 1em;
-    width: 35vw;
+    width: 25vw;
     pointer-events: none;
 }
 

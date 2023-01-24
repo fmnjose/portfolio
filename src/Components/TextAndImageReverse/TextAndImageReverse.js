@@ -1,4 +1,5 @@
 import './TextAndImageReverse.css'
+import { processParagraphsToText } from '../../Utility';
 
 function TextAndImageReverse({ title, text, imageSource, button}) {
     return (
@@ -12,7 +13,7 @@ function TextAndImageReverse({ title, text, imageSource, button}) {
             </div>
 
             <p className="text">
-              {text}
+              {processParagraphsToText(text)}
             </p>
             {button ? button : null}
           </div>

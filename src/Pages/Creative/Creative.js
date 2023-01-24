@@ -30,7 +30,7 @@ function regabofeContent(currentLanguage){
       visualContent: () => {
         return(
           <div className='image-container'>
-            <iframe className='image' src="https://www.youtube.com/shorts/HIoGczCcVLg"/>
+            <iframe className='image' width="397" height="706" src="https://www.youtube.com/embed/HIoGczCcVLg" title="ÚLTIMO REGABOFE DE SÁBADO À NOITE - PROMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <p className='image-label'>Stream link: <a href='https://www.twitch.tv/flip_ze'>twitch.tv/flip_ze</a></p>
           </div>
         )
@@ -44,7 +44,7 @@ function regabofeContent(currentLanguage){
       visualContent: () => {
         return(
           <div className='image-container'>
-            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Tj3pr_K8Cgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe clasname='image' width="560" height="315" src="https://www.youtube-nocookie.com/embed/Tj3pr_K8Cgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <p className='image-label'><a href='https://www.instagram.com/flip_ze/'>Instagram</a></p>
             <p className='image-label'><a href='https://www.youtube.com/@flip_ze'>Youtube</a></p>
             <p className='image-label'><a href='https://www.tiktok.com/@oflip_ze'>Tiktok</a></p>

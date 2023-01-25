@@ -1,6 +1,6 @@
 import './App.css';
 import { useState } from "react";
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import GlobalNavigation from './Layouts/GlobalNavigation/GlobalNavigation';
 import Footer from './Layouts/Footer/Footer';
 import Home from './Pages/Home/Home'

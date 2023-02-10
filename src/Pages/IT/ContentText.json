@@ -4,7 +4,7 @@
             "description": ["Trabalhei na Celfocus como administrador de sistemas. Fiz parte da equipa de Release Management da 'Vodafone Ireland', estando a cargo dos sistemas usados pelas equipas de desenvolvimento para testar código, em metodologia Agile.","Depois estive num projeto com a Saudi Telecom Company, onde fui responsável por montar o sistema de CI/CD, e pelos clusters de Kafka usados na solução de Digital Transformation da STC.","Por último, participei num projeto da Vodafone Global, no desenvolvimento de automatismos em Ansible e Shell para realização e catalogação de backups automáticos, assim como os mecanismos para restauração dos mesmos."],
             "technologies": {
                 "title": "Tecnologias",
-                "list": ["Red Hat Enterprise Linux", "Jenkins", "Kafka", "Cloudbees", "AWS", "Ansible", "Shell","Python", "Nginx","Weblogic"]
+                "list": ["Red Hat Enterprise Linux", "Jenkins", "Kafka", "Cloudbees", "Docker", "AWS", "Ansible", "Shell","Python", "Nginx","Weblogic"]
             }
         },
 
@@ -12,7 +12,7 @@
             "description":["I worked at Celfocus as a system administrator. I was part of the Release Management team for 'Vodafone Ireland', having to manage the systems used by the development teams to run tests, using Agile methodology.","Then I was on the Digital Transformation project for Saudi Telecom Company, where I was responsible for the CI/CD stack, and Kafka clusters.","Lastly, I took part in a project for Vodafone Global, developing and documenting automatic mechanisms to backup and restore several third-party systems, using Ansible and Shell scripting."],
             "technologies": {
                 "title": "Technologies",
-                "list": ["Red Hat Enterprise Linux", "Jenkins", "Kafka", "Cloudbees", "AWS", "Ansible", "Shell","Python", "Nginx","Weblogic"]
+                "list": ["Red Hat Enterprise Linux", "Jenkins", "Kafka", "Cloudbees", "Docker", "AWS", "Ansible", "Shell","Python", "Nginx","Weblogic"]
             }
         }
     },

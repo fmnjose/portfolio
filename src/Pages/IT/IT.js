@@ -14,7 +14,8 @@ function IT({currentLanguage}) {
         <Thumbnail imageSource={celfocus} setOpen={() => setOpen(0)}>
           <ITModal 
             title={'Celfocus'}
-            text= {contentText.Celfocus[currentLanguage]}
+            text= {contentText.Celfocus[currentLanguage].description}
+            technologiesList={contentText.Celfocus[currentLanguage].technologies}
             imageSource={celfocus}
             openId={openId} 
             thisId={0}
@@ -24,7 +25,8 @@ function IT({currentLanguage}) {
         <Thumbnail imageSource={lovelystay} setOpen={() => setOpen(1)}>
           <ITModal 
             title={'Lovelystay'}
-            text= {contentText.Lovelystay[currentLanguage]}
+            text= {contentText.Lovelystay[currentLanguage].description}
+            technologiesList={contentText.Lovelystay[currentLanguage].technologies}
             imageSource={lovelystay}
             openId={openId} 
             thisId={1}
@@ -33,7 +35,8 @@ function IT({currentLanguage}) {
         <Thumbnail imageSource={memcached} setOpen={() => setOpen(2)}>
         <ITModal 
             title={"'Improving Web Applications using a Variant of Memcached'"}
-            text= {contentText.Memcached[currentLanguage]}
+            text= {contentText.Memcached[currentLanguage].description}
+            technologiesList={contentText.Memcached[currentLanguage].technologies}
             imageSource={memcached}
             openId={openId} 
             thisId={2}

@@ -63,23 +63,3 @@
     align-items: center;
     scroll-behavior: smooth;
 }
-
-/* width */
-.overlay ::-webkit-scrollbar {
-    width: 5px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-    background: rgb(198, 198, 198);
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-    background: white;
-}
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: black;
-  }
